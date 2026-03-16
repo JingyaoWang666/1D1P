@@ -1,6 +1,6 @@
 ---
 name: Daily Question
-description: Template for my daily learning question
+about: Template for my daily learning question
 labels: ["daily-question"]
 ---
 
